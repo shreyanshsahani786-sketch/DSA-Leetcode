@@ -13,6 +13,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0098-validate-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,12 +25,14 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
