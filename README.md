@@ -21,6 +21,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +101,8 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
