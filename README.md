@@ -120,4 +120,8 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0038-count-and-say](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0038-count-and-say/) | Medium |
 <!---LeetCode Topics End-->
