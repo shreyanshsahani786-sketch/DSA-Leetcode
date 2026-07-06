@@ -93,6 +93,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -123,5 +124,10 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0038-count-and-say](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0038-count-and-say/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
