@@ -104,6 +104,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Two Pointers
@@ -147,6 +148,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -171,5 +173,6 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
