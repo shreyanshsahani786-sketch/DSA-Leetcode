@@ -84,6 +84,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Divide and Conquer
