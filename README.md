@@ -9,6 +9,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0007-reverse-integer](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
