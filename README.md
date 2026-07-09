@@ -118,6 +118,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -171,6 +173,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
