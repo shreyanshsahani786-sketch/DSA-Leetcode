@@ -154,6 +154,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
