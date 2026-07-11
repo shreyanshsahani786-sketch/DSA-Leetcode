@@ -38,6 +38,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0099-recover-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -163,6 +164,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0058-length-of-last-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,5 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->
