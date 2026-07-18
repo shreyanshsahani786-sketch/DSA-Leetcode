@@ -44,6 +44,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,4 +255,12 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
