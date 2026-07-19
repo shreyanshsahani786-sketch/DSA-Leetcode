@@ -7,6 +7,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -177,6 +178,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0006-zigzag-conversion](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0038-count-and-say](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
@@ -244,6 +246,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Design
 | Problem Name | Difficulty |
