@@ -41,6 +41,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0099-recover-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -115,6 +116,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -152,6 +154,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -270,9 +273,11 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
