@@ -32,6 +32,6 @@ int solve(TreeNode* root, int curr)
 
 int sumNumbers(TreeNode* root)
 {
-    return solve(root, 0);
+    return solve(root,0);
 }
 };
