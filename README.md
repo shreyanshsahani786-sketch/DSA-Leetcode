@@ -24,6 +24,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -41,6 +42,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0099-recover-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -76,6 +78,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
