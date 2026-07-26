@@ -127,6 +127,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
