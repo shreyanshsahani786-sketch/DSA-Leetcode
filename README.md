@@ -8,6 +8,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
@@ -306,6 +308,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
