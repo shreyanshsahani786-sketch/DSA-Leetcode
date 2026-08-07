@@ -41,7 +41,7 @@ public:
             }
         }
 
-        // Cycle exists
+        // if Cycle exists
         if (ans.size() != numCourses)
             return {};
 
