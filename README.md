@@ -344,4 +344,8 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
