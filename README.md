@@ -47,6 +47,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -183,6 +184,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -325,6 +327,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Iterator
@@ -340,6 +343,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
