@@ -16,6 +16,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0263-ugly-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0507-perfect-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
