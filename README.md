@@ -18,6 +18,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0706-design-hashmap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -369,6 +371,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
@@ -385,9 +388,11 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
