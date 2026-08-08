@@ -13,6 +13,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
