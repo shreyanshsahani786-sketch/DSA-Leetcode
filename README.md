@@ -145,6 +145,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0697-degree-of-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0705-design-hashset/) | Easy |
