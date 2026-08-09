@@ -143,6 +143,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0204-count-primes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0697-degree-of-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0705-design-hashset/) | Easy |
@@ -184,6 +185,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0141-linked-list-cycle](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Breadth-First Search
