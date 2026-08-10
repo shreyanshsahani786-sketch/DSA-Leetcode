@@ -23,7 +23,7 @@ public:
 
              left++;
             }
-            ans = max(ans,right - left - 1 + 2);
+            ans = max(ans,right - left + 1);
         }
         return ans;
         
