@@ -181,6 +181,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0705-design-hashset](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -264,6 +266,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
