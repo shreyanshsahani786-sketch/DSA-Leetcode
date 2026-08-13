@@ -212,6 +212,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
