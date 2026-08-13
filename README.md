@@ -11,6 +11,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -176,6 +177,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0073-set-matrix-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -202,6 +204,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0141-linked-list-cycle](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -436,4 +439,8 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0930-binary-subarrays-with-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
