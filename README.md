@@ -150,6 +150,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0697-degree-of-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -221,6 +222,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -310,6 +312,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
@@ -453,4 +456,12 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
