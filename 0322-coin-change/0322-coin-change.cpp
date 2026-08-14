@@ -16,11 +16,11 @@ public:
 
         for(int coin:coins)
         {
-            int res=solve(coins,amount-coin,dp);
+            int mini=solve(coins,amount-coin,dp);
 
-            if(res!=INT_MAX)
+            if(mini!=INT_MAX)
             {
-                ans=min(ans,res+1);
+                ans=min(ans,mini+1);
             }
         }
 
