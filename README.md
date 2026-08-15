@@ -145,6 +145,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -312,6 +313,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0198-house-robber](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
