@@ -134,6 +134,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0039-combination-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -170,6 +171,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0190-reverse-bits/) | Easy |
@@ -310,6 +312,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
