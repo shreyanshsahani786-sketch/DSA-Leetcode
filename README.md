@@ -72,6 +72,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0098-validate-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -213,6 +215,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
