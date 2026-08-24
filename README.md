@@ -133,6 +133,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
@@ -212,6 +213,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -333,6 +335,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
