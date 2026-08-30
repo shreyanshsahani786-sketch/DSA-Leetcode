@@ -201,6 +201,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -266,6 +267,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -347,6 +350,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Queue
