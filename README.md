@@ -160,6 +160,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0228-summary-ranges](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0403-frog-jump](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0697-degree-of-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -338,6 +339,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0198-house-robber](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0403-frog-jump](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
