@@ -177,6 +177,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -355,6 +357,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
