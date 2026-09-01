@@ -4,21 +4,21 @@ public:
 
         sort(nums.begin(), nums.end());
 
+        double ans = INT_MAX;
+
         int left = 0;
         int right = nums.size() - 1;
 
-        int minSum = INT_MAX;
-
         while (left < right) {
 
-            int sum = nums[left] + nums[right];
+            double avg = (nums[left] + nums[right]) / 2.0;
 
-            minSum = min(minSum, sum);
+            ans = min(ans, avg);
 
             left++;
             right--;
         }
 
-        return minSum / 2.0;
+        return ans;
     }
 };
