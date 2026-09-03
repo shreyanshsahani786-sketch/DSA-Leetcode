@@ -23,6 +23,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2427-number-of-common-factors](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -510,4 +512,8 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
