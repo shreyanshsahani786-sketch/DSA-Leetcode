@@ -178,6 +178,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 ## Divide and Conquer
@@ -238,6 +239,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -315,6 +317,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sliding Window
@@ -403,6 +406,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
