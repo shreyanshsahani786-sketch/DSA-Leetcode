@@ -1,37 +1,28 @@
 class Solution {
 public:
-
- bool isVowel(char ch) {
-        return ch == 'a' || ch == 'e' || ch == 'i' ||
-               ch == 'o' || ch == 'u' ||
-               ch == 'A' || ch == 'E' || ch == 'I' ||
-               ch == 'O' || ch == 'U';
-    }
-
     string reverseVowels(string s) {
+
+        string vowels = "aeiouAEIOU";
 
         int left = 0;
         int right = s.length() - 1;
 
+         while (left < right) {
 
-        while (left < right) {
-
-            // left vowel nahi hai
-            if (!isVowel(s[left])) {
+            while (left < right &&
+                   vowels.find(s[left]) == string::npos) {
                 left++;
             }
 
-            // right vowel nahi hai
-            else if (!isVowel(s[right])) {
+            while (left < right &&
+                   vowels.find(s[right]) == string::npos) {
                 right--;
             }
 
-            // dono vowels hain
-            else {
-                swap(s[left], s[right]);
-                left++;
-                right--;
-            }
+            swap(s[left], s[right]);
+
+            left++;
+            right--;
         }
 
         return s;
