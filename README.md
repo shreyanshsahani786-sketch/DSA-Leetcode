@@ -234,6 +234,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0202-happy-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -307,6 +308,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0211-design-add-and-search-words-data-structure](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
