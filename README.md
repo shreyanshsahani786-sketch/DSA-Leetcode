@@ -170,6 +170,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -238,6 +239,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -369,6 +371,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Queue
