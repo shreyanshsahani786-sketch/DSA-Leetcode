@@ -1,37 +1,45 @@
 class Solution {
 public:
 
-    int solve(vector<int>& nums, int i, int end, vector<int>& dp)
+    int robLinear(vector<int>& nums, int start, int end)
     {
-        if(i > end)
-            return 0;
+        int n = end - start + 1;
 
-        if(dp[i] != -1)
-            return dp[i];
+        if(n == 1)
+            return nums[start];
 
-        int take = nums[i] + solve(nums, i + 2, end, dp);
+        vector<int> dp(n);
 
-        int notTake = solve(nums, i + 1, end, dp);
+        dp[0] = nums[start];
 
-        return dp[i] = max(take, notTake);
-    } 
-    int rob(vector<int>& nums) {
+        dp[1] = max(nums[start], nums[start + 1]);
 
-         int n = nums.size();
+        for(int i = 2; i < n; i++)
+        {
+            int current = start + i;
+
+            int take = nums[current] + dp[i - 2];
+
+            int notTake = dp[i - 1];
+
+            dp[i] = max(take, notTake);
+        }
+
+        return dp[n - 1];
+    }
+
+    int rob(vector<int>& nums)
+    {
+        int n = nums.size();
 
         if(n == 1)
             return nums[0];
 
-        vector<int> dp(n, -1);
+        // Case 1 exclude last
+        int case1 = robLinear(nums, 0, n - 2);
 
-        // Case 1
-        int case1 = solve(nums, 0, n - 2, dp);
-
-        // Reset dp for second case
-        fill(dp.begin(), dp.end(), -1);
-
-        // Case 2
-        int case2 = solve(nums, 1, n - 1, dp);
+        // Case 2 exclude first
+        int case2 = robLinear(nums, 1, n - 1);
 
         return max(case1, case2);
     }
