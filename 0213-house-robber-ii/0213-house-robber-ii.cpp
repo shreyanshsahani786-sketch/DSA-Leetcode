@@ -3,29 +3,22 @@ public:
 
     int robLinear(vector<int>& nums, int start, int end)
     {
-        int n = end - start + 1;
+        int prev2 = 0;
+        int prev1 = 0;
 
-        if(n == 1)
-            return nums[start];
-
-        vector<int> dp(n);
-
-        dp[0] = nums[start];
-
-        dp[1] = max(nums[start], nums[start + 1]);
-
-        for(int i = 2; i < n; i++)
+        for(int i = start; i <= end; i++)
         {
-            int current = start + i;
+            int take = nums[i] + prev2;
 
-            int take = nums[current] + dp[i - 2];
+            int notTake = prev1;
 
-            int notTake = dp[i - 1];
+            int curr = max(take, notTake);
 
-            dp[i] = max(take, notTake);
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return dp[n - 1];
+        return prev1;
     }
 
     int rob(vector<int>& nums)
@@ -35,10 +28,10 @@ public:
         if(n == 1)
             return nums[0];
 
-        // Case 1 exclude last
+        // Case 1 first included, last excluded
         int case1 = robLinear(nums, 0, n - 2);
 
-        // Case 2 exclude first
+        // Case 2 first excluded, last included
         int case2 = robLinear(nums, 1, n - 1);
 
         return max(case1, case2);
