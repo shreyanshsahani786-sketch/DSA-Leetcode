@@ -115,6 +115,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -233,6 +234,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0086-partition-list](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
