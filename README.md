@@ -25,6 +25,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2427-number-of-common-factors](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
