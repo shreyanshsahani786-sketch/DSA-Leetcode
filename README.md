@@ -141,6 +141,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0015-3sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -272,6 +273,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0079-word-search/) | Medium |
