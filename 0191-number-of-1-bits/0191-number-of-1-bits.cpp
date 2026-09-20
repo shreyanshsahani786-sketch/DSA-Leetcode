@@ -4,13 +4,10 @@ public:
 
         int count = 0;
 
-        while(n > 0){
-            if(n & 1){
+        while(n != 0){
+            n = n & (n-1);
             count ++;
-        }
-        // right shift krenge 
-        n = n >> 1;   
-    }
+        } 
 
     return count;
     }
