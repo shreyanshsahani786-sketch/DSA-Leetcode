@@ -198,6 +198,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Hash Table
@@ -288,6 +289,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0090-subsets-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
