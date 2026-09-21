@@ -292,6 +292,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0191-number-of-1-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Greedy
@@ -371,6 +372,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0198-house-robber](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0403-frog-jump](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
