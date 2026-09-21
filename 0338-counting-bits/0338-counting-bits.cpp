@@ -6,7 +6,7 @@ public:
 
         for(int i = 1; i <= n; i++){
 
-            ans[i] = ans[i & (i-1)] + 1;
+            ans[i] = ans[i / 2] + (i % 2) ;
         }
         
         return ans;
