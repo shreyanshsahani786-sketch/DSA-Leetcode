@@ -295,6 +295,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0338-counting-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0461-hamming-distance](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0461-hamming-distance/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
