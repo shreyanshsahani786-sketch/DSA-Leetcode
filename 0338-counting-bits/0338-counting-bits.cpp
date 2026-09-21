@@ -1,27 +1,14 @@
 class Solution {
 public:
-     int countOnes(int n){
-
-        int count = 0;
-
-        while(n != 0){
-            n = n & (n-1);
-            count ++;
-        } 
-
-    return count;
-     }
-
     vector<int> countBits(int n) {
 
-        vector<int> ans(n + 1);
+        vector<int> ans(n + 1 , 0);
 
-        for (int i = 0; i <= n; i++) {
-            ans[i] = countOnes(i);
+        for(int i = 1; i <= n; i++){
+
+            ans[i] = ans[i & (i-1)] + 1;
         }
-
+        
         return ans;
-        
-        
     }
 };
