@@ -253,6 +253,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0283-move-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -340,6 +341,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
