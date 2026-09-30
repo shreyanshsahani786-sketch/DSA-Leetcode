@@ -18,6 +18,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0263-ugly-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
@@ -303,6 +304,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0231-power-of-two](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0461-hamming-distance/) | Easy |
 ## Greedy
