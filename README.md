@@ -177,6 +177,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0403-frog-jump](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0414-third-maximum-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0697-degree-of-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -255,6 +256,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0344-reverse-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -311,6 +313,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -403,6 +406,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -495,6 +499,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
