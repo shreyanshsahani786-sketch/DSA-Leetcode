@@ -185,6 +185,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0706-design-hashmap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0860-lemonade-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -315,6 +316,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [0860-lemonade-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
