@@ -1,23 +1,29 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {
+    int solve(vector<int>& nums, int index, vector<int>& dp) {
+        if(index >= nums.size() - 1)
+            return 0;
 
-        int jumps = 0;
-        int currentEnd = 0;
-        int farthest = 0;
+        if(dp[index] != -1)
+            return dp[index];
 
-        for(int i = 0; i < nums.size() - 1; i++) {
+        int ans = INT_MAX;
 
-            farthest = max(farthest, i + nums[i]);
+        for(int jump = 1; jump <= nums[index]; jump++) {
+            int next = solve(nums, index + jump, dp);
 
-            if(i == currentEnd) {
-
-                jumps++;
-
-                currentEnd = farthest;
-            }
+            if(next != INT_MAX)
+                ans = min(ans, 1 + next);
         }
 
-        return jumps;
+        return dp[index] = ans;
+    }
+
+    int jump(vector<int>& nums) {
+        int n = nums.size();
+
+        vector<int> dp(n, -1);
+
+        return solve(nums, 0, dp);
     }
 };
