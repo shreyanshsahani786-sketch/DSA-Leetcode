@@ -179,6 +179,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0414-third-maximum-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -320,6 +321,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0055-jump-game](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -402,6 +404,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0322-coin-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0403-frog-jump](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
@@ -416,6 +419,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0242-valid-anagram](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
