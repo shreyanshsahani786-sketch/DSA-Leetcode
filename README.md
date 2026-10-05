@@ -151,6 +151,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0046-permutations](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -314,6 +315,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -387,6 +389,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
