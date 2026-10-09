@@ -200,6 +200,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -327,6 +328,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Monotonic Stack
@@ -426,6 +428,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
