@@ -242,6 +242,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0697-degree-of-an-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0763-partition-labels](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -268,6 +269,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0763-partition-labels](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -328,6 +330,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0435-non-overlapping-intervals](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [0763-partition-labels](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -364,6 +367,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
