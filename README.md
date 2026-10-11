@@ -22,6 +22,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0507-perfect-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -199,6 +200,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [1004-max-consecutive-ones-iii](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -327,6 +329,7 @@ A collection of LeetCode solutions written in C++ for Data Structures &amp; Algo
 | [0455-assign-cookies](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0670-maximum-swap](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0860-lemonade-change](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shreyanshsahani786-sketch/DSA-Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
